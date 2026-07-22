@@ -1,0 +1,11 @@
+{
+  "name": "SHAKE OFF 鸡尾酒淘汰赛",
+  "short_name": "SHAKE OFF",
+  "description": "从64杯经典鸡尾酒中逐轮选择，选出你的冠军。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4efe5",
+  "theme_color": "#191815",
+  "lang": "zh-CN"
+}
